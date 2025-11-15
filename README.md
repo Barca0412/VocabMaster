@@ -2,6 +2,12 @@
 
 A desktop vocabulary learning application with intelligent spaced repetition and AI-powered personalized learning.
 
+
+<div align=center>
+   <img width="350" height="1000" alt="image" src="https://github.com/user-attachments/assets/2ea5af63-ba84-422a-8224-ae30c61ec349" />
+
+</div>  
+
 ## Overview
 
 VocabMaster is a PyQt6-based desktop application designed to enhance English vocabulary acquisition through:
