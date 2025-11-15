@@ -1,5 +1,7 @@
 # VocabMaster
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Barca0412.VocabMaster)
+
 A desktop vocabulary learning application with intelligent spaced repetition and AI-powered personalized learning.
 
 
